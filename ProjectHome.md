@@ -1,0 +1,1 @@
+Plugin for gedit that enables modal vi-style editing
